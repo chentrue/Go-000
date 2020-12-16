@@ -1,0 +1,9 @@
+package e
+
+const (
+	SUCCESS = 0
+	ERROR   = 500
+
+	MAILBOX_CLOSED = 300
+	MAILBOX_INVALID_RCPTTO = 305
+)
